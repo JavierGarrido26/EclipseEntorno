@@ -1,1 +1,5 @@
+<<<<<<< HEAD
  Creo el archivo1 en la rama 'Main'
+=======
+Creo el archivo en la rama 'Cosas'
+>>>>>>> cosas
